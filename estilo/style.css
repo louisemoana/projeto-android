@@ -162,3 +162,6 @@ footer {
     color: white;
     padding: 10px;
 }
+footer > a {
+    color: white;
+}
